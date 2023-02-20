@@ -2,7 +2,7 @@
 
 My Project of the Information Theory and Coding Course Offered in Fall 2022 @ Zewail City.
 
-In this project, I implemented the JPEG Compression Algorithm.
+In this project, I implemented the JPEG Compression Algorithm (Both Encoder and Decoder) using 2 different Quantization Tables (High and Low Tables).
 
 
 ## Implementation Steps:
