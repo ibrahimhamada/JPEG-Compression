@@ -1,4 +1,4 @@
-# Implementation-of-JPEG-Compression
+# JPEG-Compression
 
 My Project of the Information Theory and Coding Course Offered in Fall 2022 @ Zewail City.
 
